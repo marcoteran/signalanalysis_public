@@ -1,1 +1,3 @@
-# signalanalysis_public
+# Signal Analysis public repository
+
+Welcome!
