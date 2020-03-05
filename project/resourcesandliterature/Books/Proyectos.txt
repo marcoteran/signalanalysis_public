@@ -1,9 +1,0 @@
-RINEX
-http://gage14.upc.es/gLAB/HTML/LaunchHTML.html
-http://www.insidegnss.com/node/1423
-
-
-
-http://www.engineersgarage.com/embedded/avr-microcontroller-projects/sd-card-interfacing-project
-http://www.engineersgarage.com/embedded/avr-microcontroller-projects/sd-card-interfacing-project
-http://www.engineersgarage.com/embedded/arduino/how-to-interface-sd-card-with-arduino-project-circuit
