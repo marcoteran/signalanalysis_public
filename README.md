@@ -12,8 +12,8 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 
 ## Información
 * **Grabación de las clases** [Enlace carpeta Drive]
-* **Telegram group:** [enlace](https://t.me/joinchat/HjGfqexfenb9sAJB)
 * **Moodle del curso:** [enlace](https://virtual.usergioarboleda.edu.co/course/view.php?id=3574)
+* **Telegram group:** [enlace](https://t.me/joinchat/HjGfqexfenb9sAJB)
 
 ## Contenido
 
