@@ -11,19 +11,21 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 
 
 ## Información
-* **Grabación de las clases** [Enlace carpeta Drive]
+* **Grabación de las clases** [Enlace carpeta Drive](https://drive.google.com/drive/folders/1zH_6GOqNlMbZV6i5sFhZ9-usMYrGku4e?usp=sharing)
 * **Moodle del curso:** [enlace](https://virtual.usergioarboleda.edu.co/course/view.php?id=3574)
 * **Telegram group:** [enlace](https://t.me/joinchat/HjGfqexfenb9sAJB)
 
 ## Contenido
 
 1. **Presentación del curso *Analisis de señales***
-	* Descargar presentación [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/00_signalanalysis_syllabus.pdf) 
-	
+	* Descargar presentación [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/00_signalanalysis_syllabus.pdf)
+
+2. **Señales, sistemas y transformaciones**
+	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/01_signalanalysis_signaltheoryandsystems.pdf)	
 
 ## Material adicional
 
-
+* **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/files/_others/matlabwidecampus_installation.pdf) 
 
 ## Literatura
 
