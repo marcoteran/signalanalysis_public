@@ -19,12 +19,15 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 
 1. **Presentación del curso *Analisis de señales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/00_signalanalysis_syllabus.pdf)
+		- **Taller 00:** *Taller de repaso matemático* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SATTQ_MathematicalReview.pdf)
 
 2. **Señales, sistemas y transformaciones**
-	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/01_signalanalysis_signaltheoryandsystems.pdf)	
+	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/01_signalanalysis_signaltheoryandsystems.pdf)
+	* Señales y transformaciones [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/02_signalanalysis_signalsandtransformations.pdf)
 
 ## Material adicional
 
+* **Hoja de formulas** [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/mathsheets/mathsheetbasic.pdf)
 * **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/files/_others/matlabwidecampus_installation.pdf) 
 
 ## Literatura
