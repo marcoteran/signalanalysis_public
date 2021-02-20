@@ -26,12 +26,13 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 		- **Taller 01:** *Taller Teoría de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_signaltheory.pdf)
 	* Señales y transformaciones [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/02_signalanalysis_signalsandtransformations.pdf)
 		- **Taller 02:** *Taller Transformación de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_signaltransformation.pdf)
-
+	* Propiedades, potencia y energía  [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/03_signalanalysis_propiertiespowerenergy.pdf)
+		- **Taller 03:** *Taller Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_symmetryandperiodicity.pdf)
+		- **Taller 04:** *Taller Potencia y energía de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_energyandpower.pdf)
 
 ## Laboratorios
 
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB01_IntrotoLatex.pdf)
-
 2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB02_IntrotoMatlab.pdf)
 
 
