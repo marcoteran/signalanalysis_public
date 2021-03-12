@@ -30,6 +30,9 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 		- **Taller 03:** *Taller Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_symmetryandperiodicity.pdf)
 		- **Taller 04:** *Taller Potencia y energía de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_energyandpower.pdf)
 
+3. **Sistemas LTI, convolución y correlacións**
+	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_signalanalysis_ltisystemsandconvolution.pdf)
+
 ## Laboratorios
 
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB01_IntrotoLatex.pdf)
