@@ -31,13 +31,17 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 		- **Taller 04:** *Taller Potencia y energía de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_energyandpower.pdf)
 
 3. **Sistemas LTI, convolución y correlacións**
-	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_signalanalysis_ltisystemsandconvolution.pdf)
+	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/04_signalanalysis_ltisystemsandconvolution.pdf)
+		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/LST_TTQ_ltisystems.pdf)
+		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/LST_TTQ_continuousconvolution.pdf)
+		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf)
 
 ## Laboratorios
 
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB01_IntrotoLatex.pdf)
 2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB02_IntrotoMatlab.pdf)
-
+3. **Laboratorio 03: *Introducción a Matlab: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB03_IntrotoMatlabImageAudioVideo.pdf)
+4. **Laboratorio 04: *Convolución de señales en Matlab*** [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/laboratory/SA_LAB04_SignalConvolution.pdf)
 
 ## Material adicional
 
