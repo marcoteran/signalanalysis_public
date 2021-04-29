@@ -32,9 +32,9 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 
 3. **Sistemas LTI, convolución y correlacións**
 	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/04_signalanalysis_ltisystemsandconvolution.pdf)
-		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/LST_TTQ_ltisystems.pdf)
-		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/LST_TTQ_continuousconvolution.pdf)
-		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf)
+		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_ltisystems.pdf)
+		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_continuousconvolution.pdf)
+		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_discreteconvolution.pdf)
 
 ## Laboratorios
 
