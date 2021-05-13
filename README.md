@@ -30,11 +30,16 @@ El curso Analisis de señales presenta exhaustivamente importantes herramientas 
 		- **Taller 03:** *Taller Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_symmetryandperiodicity.pdf)
 		- **Taller 04:** *Taller Potencia y energía de señales* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_energyandpower.pdf)
 
-3. **Sistemas LTI, convolución y correlacións**
+3. **Sistemas LTI y convolución**
 	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/04_signalanalysis_ltisystemsandconvolution.pdf)
 		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_ltisystems.pdf)
 		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_continuousconvolution.pdf)
 		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_discreteconvolution.pdf)
+
+4. **Análisis en el dominio de la frecuencia**
+	* Series de Fourier [PDF](https://github.com/marcoteran/signalanalysis_public/raw/master/lectures/05_linearsystemtheory_fourierseries.pdf)
+		- **Taller 09:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_continuousfourierseries.pdf) <sub>**(*deadline:* 18.05.2021)**</sub>
+		- **Taller 10:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/signalanalysis_public/raw/master/homeworks/SA_TTQ_discretefourierseries.pdf) <sub>**(*deadline:* 18.05.2021)**</sub>
 
 ## Laboratorios
 
